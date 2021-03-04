@@ -33,7 +33,7 @@ import java.util.List;
  */
 public class KakaoApi {
     private static String kakaoApiKey = "a301ae0ea3a703d2d023964f8d9c20cd"; 		//API  KEY	REAL
-    private static String kakaoRedirectUri = "http://192.168.0.171:8080/kakaoLogin.do";	//Redirect URI
+    private static String kakaoRedirectUri = "http://27.96.134.214/kakaoLogin.do";	//Redirect URI
 
     /**
      * 카카오 엑세스토큰을 가져오는 메소드
