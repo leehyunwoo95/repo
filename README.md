@@ -1,7 +1,6 @@
 # Spring을 이용한 게시판 프로젝트
 + SpringMVC패턴으로 만든 게시판프로그램
-+ Naver AWS URL : http://27.96.134.214
-++ 위 AWS URL 에서 게시물 화면볼 수 있습니다.
++ Naver AWS URL : http://27.96.134.214 에서 게시물 화면볼 수 있습니다.
 
 ## 프로젝트 정보
 + Spring 3.2
